@@ -18,3 +18,5 @@ RUN mkdir /scripts
 
 # Copy 'scripts/script.R' to the folder '/scripts' in the container
 ADD VennDiagram.4groups.R /scripts
+
+#url to image in dockerhub: https://hub.docker.com/repository/docker/msguixe/image_venn
